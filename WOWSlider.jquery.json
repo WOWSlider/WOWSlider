@@ -16,8 +16,8 @@
 	],
 	"licenses": [
 	{
-		"type": "Free for non-commercial use",
-		"url": "http://www.wowslider.com/license.html"
+		"type": "GPL v2",
+		"url": "http://www.gnu.org/licenses/gpl-2.0.html"
 	}
 	],
 	"bugs": "https://github.com/WOWSlider/WOWSlider/issues",
