@@ -2,8 +2,8 @@
 	"name": "WOWSlider",
 	"title": "jQuery WOW Slider - Awesome image slider",
 	"description": "WOW Slider is a jQuery slider plugin with stunning visual effects and tons of professionally made templates. WOW Slider is packed with a point-and-click wizard to create fantastic image sliders in a matter of seconds without coding and image editing. Responsive, fully accessible as a pure CSS slider if the Javascript is turned off, touch swipe support, all browsers, all devices,  search engine friendly, clean and valid markup.",
-	"keywords": [ "animation", "ui", "effect", "show", "banner", "gallery", "image", "slider", "images", "javascript", "jquery", "photo", "css", "photos", "picture", "pictures", "plugin", "responsive", "slider", "slideshow", "wowslider"],
-	"version": "2.6.1",
+	"keywords": [ "animation", "ui", "effect", "show", "banner", "gallery", "image", "slider", "javascript", "jquery", "photo", "css", "picture", "plugin", "responsive", "slider", "slideshow", "wowslider"],
+	"version": "2.6.2",
 	"author": {
 		"name": "WOWSlider.com",
 		"url": "http://wowslider.com"
@@ -16,14 +16,14 @@
 	],
 	"licenses": [
 	{
-		"type": "GPL v2",
-		"url": "http://www.gnu.org/licenses/gpl-2.0.html"
+		"type": "Free for non-commercial use",
+		"url": "http://wowslider.com/license.html"
 	}
 	],
 	"bugs": "https://github.com/WOWSlider/WOWSlider/issues",
 	"homepage": "http://wowslider.com",
 	"docs": "http://wowslider.com",
-	"download": "https://github.com/WOWSlider/WOWSlider",
+	"download": "http://wowslider.com",
 	"dependencies": {
 		"jquery": ">=1.5"
 	}
