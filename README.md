@@ -1,4 +1,4 @@
-<a href="http://formoid.com">
+<a href="http://wowslider.com/">
   <img src="http://wowslider.com/images/wowslider-demos800.jpg">
 </a>
 
