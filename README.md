@@ -1,5 +1,5 @@
 <a href="http://formoid.com">
-  <img src="#">
+  <img src="http://wowslider.com/images/wowslider-demos800.jpg">
 </a>
 
 # [WOW Slider](http://wowslider.com/)
