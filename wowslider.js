@@ -334,4 +334,4 @@ jQuery.extend(jQuery.easing, {
         }
         return h / 2 * (-Math.pow(2, - 10 * --f) + 2) + a
     }
-});
+}); 
