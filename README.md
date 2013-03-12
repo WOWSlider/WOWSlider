@@ -14,7 +14,7 @@ Responsive, fully accessible as a pure CSS slider if the Javascript is turned of
 all browsers, all devices,  search engine friendly, clean and valid markup. 
 
 ## Live Demos
-
+*    [Balance Demo](http://www.wowslider.com/online-photo-slideshow-balance-blast.html "Online Photo Slideshow - Balance Template Demo")
 *    [Prime Time - Filmstrip](http://wowslider.com/jquery-image-scroller-prime-time-linear-demo.html "jQuery Image Scroller - Prime Time Template Demo with Basic linear effect")
 *    [Responsive Slider - Shady Stack](view-source:http://wowslider.com/wordpress-gallery-css-shady-stack-v-demo.html "Responsive Slider - Wordpress Shady Stack Demo")
 *    [Catalyst Digital Demo](http://www.wowslider.com/jquery-picture-slider-catalyst-digital-stack-demo.html "jQuery Picture Slider - Catalyst Digital Template Demo with Stack effect")
