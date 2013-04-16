@@ -14,6 +14,7 @@ Responsive, fully accessible as a pure CSS slider if the Javascript is turned of
 all browsers, all devices,  search engine friendly, clean and valid markup. 
 
 ## Live Demos
+*    [Flat Demo](http://www.wowslider.com/jquery-slideshow-flat-slices.html "jQuery Slideshow - Flat Template Demo with Slices effect")
 *    [Plastic Demo](http://wowslider.com/css-slideshow-plastic-squares.html "CSS Slideshow - Plastic Template Demo with Squares effect")
 *    [Studio Demo](http://www.wowslider.com/css-slideshow-studio-fade.html "CSS Slideshow - Studio Template Demo with Fade effect")
 *    [Balance Demo](http://www.wowslider.com/online-photo-slideshow-balance-blast.html "Online Photo Slideshow - Balance Template Demo")
