@@ -14,6 +14,7 @@ Responsive, fully accessible as a pure CSS slider if the Javascript is turned of
 all browsers, all devices,  search engine friendly, clean and valid markup. 
 
 ## Live Demos
+*    [Cloud Demo](http://www.wowslider.com/photo-slider-cloud-fly.html "Photo Slider - Cloud Template Demo with Fly effect")
 *    [Push Demo](http://www.wowslider.com/css-image-gallery-push-stack.html "CSS Image Gallery - Push Template Demo with Stack effect")
 *    [Flat Demo](http://www.wowslider.com/jquery-slideshow-flat-slices.html "jQuery Slideshow - Flat Template Demo with Slices effect")
 *    [Plastic Demo](http://wowslider.com/css-slideshow-plastic-squares.html "CSS Slideshow - Plastic Template Demo with Squares effect")
