@@ -14,6 +14,7 @@ Responsive, fully accessible as a pure CSS slider if the Javascript is turned of
 all browsers, all devices,  search engine friendly, clean and valid markup. 
 
 ## Live Demos
+*    [Silence Demo](http://wowslider.com/html-slideshow-silence-blur-demo.html "HTML slideshow - Silence Template Demo with Blur effect")
 *    [Subway Demo](http://www.wowslider.com/web-photo-gallery-subway-basic.html "Web Photo Gallery - Subway Template Demo with Basic effect")
 *    [Drive Demo](http://www.wowslider.com/online-photo-gallery-drive-rotate.html "Online Photo Gallery - Drive Template Demo with Rotate effect")
 *    [Cloud Demo](http://www.wowslider.com/photo-slider-cloud-fly.html "Photo Slider - Cloud Template Demo with Fly effect")
