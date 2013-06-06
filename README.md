@@ -26,6 +26,7 @@ all browsers, all devices,  search engine friendly, clean and valid markup.
 *    [Studio Demo](http://www.wowslider.com/css-slideshow-studio-fade.html "CSS Slideshow - Studio Template Demo with Fade effect")
 *    [Balance Demo](http://www.wowslider.com/online-photo-slideshow-balance-blast.html "Online Photo Slideshow - Balance Template Demo")
 *    [Dominion Demo](http://www.wowslider.com/html-gallery-dominion-blinds-demo.html "HTML gallery - Dominion Template Demo with Blinds effect")
+*    [Calm Demo](http://www.wowslider.com/html-slider-calm-kenburns-demo.html "HTML slider - Calm Template Demo with Ken Burns effect")
 *    [Prime Time - Filmstrip](http://wowslider.com/jquery-image-scroller-prime-time-linear-demo.html "jQuery Image Scroller - Prime Time Template Demo with Basic linear effect")
 *    [Responsive Slider - Shady Stack](view-source:http://wowslider.com/wordpress-gallery-css-shady-stack-v-demo.html "Responsive Slider - Wordpress Shady Stack Demo")
 *    [Catalyst Digital Demo](http://www.wowslider.com/jquery-picture-slider-catalyst-digital-stack-demo.html "jQuery Picture Slider - Catalyst Digital Template Demo with Stack effect")
