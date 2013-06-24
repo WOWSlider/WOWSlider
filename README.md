@@ -33,7 +33,8 @@ all browsers, all devices,  search engine friendly, clean and valid markup.
 *    [Catalyst Digital Demo](http://www.wowslider.com/jquery-picture-slider-catalyst-digital-stack-demo.html "jQuery Picture Slider - Catalyst Digital Template Demo with Stack effect")
 *    [Quiet Demo - Rotate effect](http://www.wowslider.com/javascript-slideshow-quiet-rotate-demo.html "Javascript Slideshow - Quiet Template Demo with Rotate effect")
 *    [Elemental Demo - Slices effect](http://www.wowslider.com/jquery-slider-css-elemental-slices-demo.html "jQuery Slider CSS - Elemental Slices Demo")
-*    [Responsive Slider - Shady Stack](view-source:http://wowslider.com/wordpress-gallery-css-shady-stack-v-demo.html "Responsive Slider - Wordpress Shady Stack Demo")
+*    [Responsive Slider - Shady Stack](http://wowslider.com/wordpress-gallery-css-shady-stack-v-demo.html "Responsive Slider - Wordpress Shady Stack Demo")
+*    [Numeric Demo - Basic effect](http://wowslider.com/html5-image-gallery-numeric-basic-demo.html "HTML5 Image Gallery Numeric Basic Demo")
 *    [More amazing demos made with WOW Slider..](http://wowslider.com/jquery-image-rotator-terse-blur-demo.html "jQuery Slider - Terse Blur") 
 
 
