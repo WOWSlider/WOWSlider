@@ -14,6 +14,7 @@ Responsive, fully accessible as a pure CSS slider if the Javascript is turned of
 all browsers, all devices,  search engine friendly, clean and valid markup. 
 
 ## Live Demos
+*    [Elegant Demo](http://wowslider.com/slider-jquery-elegant-linear-demo.html "Slider jQuery - Elegant Template Demo with Basic linear effect")
 *    [Geometric Demo](http://www.wowslider.com/banner-maker-geometric-kenburns-demo.html "Banner maker - Geometric Template Demo with Ken Burns effect")
 *    [Surface Demo](http://www.wowslider.com/slideshow-maker-software-surface-blur-demo.html "Slideshow Maker Software - Surface Template Demo with Blur effect")
 *    [Vernisage Demo](http://www.wowslider.com/jquery-carousel-vernisage-stack-v-demo.html "jQuery Carousel - Vernisage Template Demo with Stack vertical effect")
