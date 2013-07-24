@@ -14,6 +14,7 @@ Responsive, fully accessible as a pure CSS slider if the Javascript is turned of
 all browsers, all devices,  search engine friendly, clean and valid markup. 
 
 ## Live Demos
+*    [Gothic Demo](http://www.wowslider.com/css3-slider-gothic-domino-demo.html "CSS3 Slider - Gothic Template Demo with Domino effect")
 *    [Metro Demo](http://www.wowslider.com/photo-slideshow-metro-rotate-demo.html "Photo slideshow - Metro Template Demo with Rotate effect")
 *    [Elegant Demo](http://wowslider.com/slider-jquery-elegant-linear-demo.html "Slider jQuery - Elegant Template Demo with Basic linear effect")
 *    [Geometric Demo](http://www.wowslider.com/banner-maker-geometric-kenburns-demo.html "Banner maker - Geometric Template Demo with Ken Burns effect")
