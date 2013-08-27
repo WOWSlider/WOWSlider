@@ -14,6 +14,7 @@ Responsive, fully accessible as a pure CSS slider if the Javascript is turned of
 all browsers, all devices,  search engine friendly, clean and valid markup. 
 
 ## Live Demos
+*    [Ionosphere Demo](http://www.wowslider.com/javascript-slider-ionosphere-stack-demo.html "Javascript Slider - Ionosphere Template Demo with Stack effect")
 *    [Luxury Demo](http://wowslider.com/html5-slideshow-luxury-slices-demo.html "HTML5 Slideshow - Luxury Template Demo with Slices effect")
 *    [Sunny Demo](http://www.wowslider.com/html5-slider-sunny-fade-demo.html "HTML5 Slider - Sunny Template Demo with Fade effect")
 *    [Premium Demo](http://www.wowslider.com/js-image-slider-premium-page-demo.html "JS Image Slider - Premium Template Demo with Page effect")
