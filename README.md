@@ -14,6 +14,7 @@ Responsive, fully accessible as a pure CSS slider if the Javascript is turned of
 all browsers, all devices,  search engine friendly, clean and valid markup. 
 
 ## Live Demos
+*    [Box Demo](http://wowslider.com/html5-image-slider-box-stack-v-demo.html "HTML5 Image Slider - Box Template Demo with Stack Vertical effect")
 *    [Pure Demo](http://www.wowslider.com/css3-slideshow-pure-domino.html "CSS3 Slideshow - Pure Template Demo with Domino effect")
 *    [Fresh Demo](http://www.wowslider.com/3d-slider-jquery-fresh-cube-demo.html "3D Slider jQuery - Fresh Template Demo with Cube effect")
 *    [Ionosphere Demo](http://www.wowslider.com/javascript-slider-ionosphere-stack-demo.html "Javascript Slider - Ionosphere Template Demo with Stack effect")
