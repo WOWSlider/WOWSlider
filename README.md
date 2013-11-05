@@ -14,6 +14,7 @@ Responsive, fully accessible as a pure CSS slider if the Javascript is turned of
 all browsers, all devices,  search engine friendly, clean and valid markup. 
 
 ## Live Demos
+*    [Dot Demo](http://www.wowslider.com/jquery-gallery-dot-seven-demo.html "jQuery gallery - Dot Template Demo with Seven effect")
 *    [Book Demo](http://www.wowslider.com/css3-image-slider-book-demo.html "CSS3 Image Slider - Book Template Demo with Book effect")
 *    [Box Demo](http://wowslider.com/html5-image-slider-box-stack-v-demo.html "HTML5 Image Slider - Box Template Demo with Stack Vertical effect")
 *    [Pure Demo](http://www.wowslider.com/css3-slideshow-pure-domino.html "CSS3 Slideshow - Pure Template Demo with Domino effect")
