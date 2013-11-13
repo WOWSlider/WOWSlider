@@ -14,6 +14,7 @@ Responsive, fully accessible as a pure CSS slider if the Javascript is turned of
 all browsers, all devices,  search engine friendly, clean and valid markup. 
 
 ## Live Demos
+*    [Sky Demo](http://www.wowslider.com/wordpress-gallery-sky-blur-demo.html "Wordpress gallery - Sky Template Demo with Blur effect")
 *    [Salient Demo](http://www.wowslider.com/slideshow-jquery-salient-squares-demo.html "Slideshow jQuery - Salient Template Demo with Squares effect")
 *    [Dot Demo](http://www.wowslider.com/jquery-gallery-dot-seven-demo.html "jQuery gallery - Dot Template Demo with Seven effect")
 *    [Book Demo](http://www.wowslider.com/css3-image-slider-book-demo.html "CSS3 Image Slider - Book Template Demo with Book effect")
