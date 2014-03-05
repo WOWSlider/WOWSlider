@@ -14,6 +14,7 @@ Responsive, fully accessible as a pure CSS slider if the Javascript is turned of
 all browsers, all devices,  search engine friendly, clean and valid markup. 
 
 ## Live Demos
+*    [Simple Demo](http://www.wowslider.com/image-gallery-simple-basic-demo.html "Image gallery - Simple Template Demo with Basic effect")
 *    [Shuffle Demo](http://www.wowslider.com/slideshow-html-shuffle-rotate-demo.html "Slideshow HTML - Shuffle Template Demo with Rotate effect")
 *    [Zoom Demo](http://www.wowslider.com/slideshow-software-zoom-domino-demo.html "Slideshow software - Zoom Template Demo with Domino effect")
 *    [Sky Demo](http://www.wowslider.com/wordpress-gallery-sky-blur-demo.html "Wordpress gallery - Sky Template Demo with Blur effect")
