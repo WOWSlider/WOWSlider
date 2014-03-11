@@ -14,6 +14,7 @@ Responsive, fully accessible as a pure CSS slider if the Javascript is turned of
 all browsers, all devices,  search engine friendly, clean and valid markup. 
 
 ## Live Demos
+*    [Turquoise Demo](http://www.wowslider.com/slideshow-creator-turquoise-stack-v-demo.html "Slideshow creator - Turquoise Template Demo with Stack Vertical effect")
 *    [Simple Demo](http://www.wowslider.com/image-gallery-simple-basic-demo.html "Image gallery - Simple Template Demo with Basic effect")
 *    [Shuffle Demo](http://www.wowslider.com/slideshow-html-shuffle-rotate-demo.html "Slideshow HTML - Shuffle Template Demo with Rotate effect")
 *    [Zoom Demo](http://www.wowslider.com/slideshow-software-zoom-domino-demo.html "Slideshow software - Zoom Template Demo with Domino effect")
