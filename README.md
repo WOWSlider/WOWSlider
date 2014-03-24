@@ -14,6 +14,7 @@ Responsive, fully accessible as a pure CSS slider if the Javascript is turned of
 all browsers, all devices,  search engine friendly, clean and valid markup. 
 
 ## Live Demos
+*    [Grafito Demo](http://www.wowslider.com/wordpress-gallery-plugin-grafito-seven-demo.html "Wordpress Gallery Plugin - Grafito Template Demo with Seven effect")
 *    [Emerald Demo](http://www.wowslider.com/slider-javascript-emerald-photo-demo.html "Slider javascript - Emerald Template Demo with Page effect")
 *    [Glass Demo](http://www.wowslider.com/responsive-image-gallery-glass-collage.html "Responsive Image Gallery - Glass Template Demo with Basic Collage effect")
 *    [Turquoise Demo](http://www.wowslider.com/slideshow-creator-turquoise-stack-v-demo.html "Slideshow creator - Turquoise Template Demo with Stack Vertical effect")
