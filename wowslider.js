@@ -16,7 +16,7 @@ jQuery.fn.wowSlider = function (d) {
         height: 360,
         controls: true,
         autoPlay: true,
-        bullets: true,
+        bullets: true
     }, d);
     var a = e(".ws_images", h);
     var l = a.find("ul");
