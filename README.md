@@ -14,6 +14,7 @@ Responsive, fully accessible as a pure CSS slider if the Javascript is turned of
 all browsers, all devices,  search engine friendly, clean and valid markup. 
 
 ## Live Demos
+*    [Gentle Demo](http://www.wowslider.com/simple-jquery-slider-gentle-linear-demo.html "Simple jQuery Slider - Gentle Template Demo with Basic linear effect")
 *    [Easy Demo](http://www.wowslider.com/slideshow-javascript-easy-page-demo.html "Slideshow javascript - Easy Template Demo with Page effect")
 *    [Tick Demo](http://www.wowslider.com/gallery-jquery-tick-book-demo.html "Gallery jQuery - Tick Template Demo with Book effect")
 *    [Galaxy Demo](http://www.wowslider.com/css-gallery-galaxy-collage-demo.html "CSS Gallery - Galaxy Template Demo with Collage effect")
