@@ -64,6 +64,7 @@ all browsers, all devices,  search engine friendly, clean and valid markup.
 *    [Responsive Slider - Shady Stack](http://wowslider.com/wordpress-gallery-css-shady-stack-v-demo.html "Responsive Slider - Wordpress Shady Stack Demo")
 *    [Numeric Demo - Basic effect](http://wowslider.com/html5-image-gallery-numeric-basic-demo.html "HTML5 Image Gallery Numeric Basic Demo")
 *    [More amazing demos made with WOW Slider..](http://wowslider.com/jquery-image-rotator-terse-blur-demo.html "jQuery Slider - Terse Blur") 
+*    [Megalopolis Skin Slider Demo - Slices effect]http://wowslider.com/javascript-gallery-megalopolis-slices-demo.html "Javascript Gallery - Megalopolis Skin Slider Demo - Slices effect"
 
 
 ## Quick start
