@@ -22,7 +22,7 @@
 	],
 	"homepage": "http://wowslider.com",
 	"demo":  "http://wowslider.com/demo.html",
-	"docs": "http://www.wowslider.com/index.html#help",
+	"docs": "http://wowslider.com/index.html#help",
 	"download": "http://wowslider.com",
 	"dependencies": {
 		"jquery": ">=1.5"
