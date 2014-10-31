@@ -14,6 +14,15 @@ Responsive, fully accessible as a pure CSS slider if the Javascript is turned of
 all browsers, all devices,  search engine friendly, clean and valid markup. 
 
 ## Live Demos
+*    [Showy Demo] (http://wowslider.com/carousel-slider-showy-carousel-demo.html "Carousel Slider - Showy Template Demo with Carousel effect")
+*    [Book Demo] (http://wowslider.com/image-carousel-book-dribbles-demo.html "Image Carousel - Book Template Demo with Dribbles effect")
+*    [Easy Demo] (http://wowslider.com/css3-slider-easy-bubbless-demo.html "css3 Slider - Easy Template Demo with Bubbles effect")
+*    [Twist Demo] (http://wowslider.com/slider-html-twist-glass-parallax-demo.html "Slider html - Twist Template Demo with Glass parallax effect")
+*    [Carousel Demo] (http://wowslider.com/jquery-carousel-animated-parallax-demo.html "jQuery Carousel - Animated Template Demo with Parallax effect")
+*    [Transparent Demo] (http://wowslider.com/jquery-3d-slider-transparent-brick-demo.html "jQuery 3d Slider - Transparent Template Demo with Brick effect")
+*    [Megapolis Demo] (http://wowslider.com/javascript-gallery-megalopolis-slices-demo.html "Javascript gallery - Megapolis Template Demo with Slices effect")
+*    [Puzzle Demo] (http://wowslider.com/html5-gallery-puzzle-collage-demo.html "html5 gallery - Puzzle Template Demo with Collage effect")
+*    [Contour Demo] (http://wowslider.com/javascript-image-slider-contour-cube-demo.html "Javascript image slider - Contour Template Demo with Cube effect")
 *    [Gentle Demo](http://wowslider.com/simple-jquery-slider-gentle-linear-demo.html "Simple jQuery Slider - Gentle Template Demo with Basic linear effect")
 *    [Easy Demo](http://wowslider.com/slideshow-javascript-easy-page-demo.html "Slideshow javascript - Easy Template Demo with Page effect")
 *    [Tick Demo](http://wowslider.com/gallery-jquery-tick-book-demo.html "Gallery jQuery - Tick Template Demo with Book effect")
