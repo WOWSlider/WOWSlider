@@ -14,6 +14,8 @@ Responsive, fully accessible as a pure CSS slider if the Javascript is turned of
 all browsers, all devices,  search engine friendly, clean and valid markup. 
  
 ## Live Demos
+
+*    [Cursive Demo] (http://wowslider.com/full-width-slider-cursive-collage-demo.html "Carousel Slider - Cursive Template Demo with Collage effect")
 *    [Showy Demo] (http://wowslider.com/carousel-slider-showy-carousel-demo.html "Carousel Slider - Showy Template Demo with Carousel effect")
 *    [Book Demo] (http://wowslider.com/image-carousel-book-dribbles-demo.html "Image Carousel - Book Template Demo with Dribbles effect")
 *    [Easy Demo] (http://wowslider.com/css3-slider-easy-bubbless-demo.html "css3 Slider - Easy Template Demo with Bubbles effect")
