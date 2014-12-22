@@ -15,6 +15,7 @@ all browsers, all devices,  search engine friendly, clean and valid markup.
  
 ## Live Demos
 
+*    [Slim Demo] (http://wowslider.com/full-screen-slider-slim-lines-demo.html "Carousel Slider - Slim Template Demo with Lines effect")
 *    [Cursive Demo] (http://wowslider.com/full-width-slider-cursive-collage-demo.html "Carousel Slider - Cursive Template Demo with Collage effect")
 *    [Showy Demo] (http://wowslider.com/carousel-slider-showy-carousel-demo.html "Carousel Slider - Showy Template Demo with Carousel effect")
 *    [Book Demo] (http://wowslider.com/image-carousel-book-dribbles-demo.html "Image Carousel - Book Template Demo with Dribbles effect")
