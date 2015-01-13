@@ -15,6 +15,7 @@ all browsers, all devices,  search engine friendly, clean and valid markup.
  
 ## Live Demos
 
+*    [Absent Demo] (http://wowslider.com/wordpress-slider-plugin-absent-cube-demo.html "Wordpress Slider Plugin - Absent Template Demo with Cube effect")
 *    [Bootstrap Demo] (http://wowslider.com/bootstrap-carousel-demo.html "css3 Slider - Bootstrap Template Demo with Carousel effect")
 *    [Slim Demo] (http://wowslider.com/full-screen-slider-slim-lines-demo.html "Carousel Slider - Slim Template Demo with Lines effect")
 *    [Cursive Demo] (http://wowslider.com/full-width-slider-cursive-collage-demo.html "Carousel Slider - Cursive Template Demo with Collage effect")
