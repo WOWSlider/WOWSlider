@@ -15,6 +15,7 @@ all browsers, all devices,  search engine friendly, clean and valid markup.
  
 ## Live Demos
 
+*    [Material Demo] (http://wowslider.com/content-slider-material-collage-demo.html "Content Slider - Material Template Demo with Collage effect")
 *    [Bootstrap Demo] (http://wowslider.com/bootstrap-slider-baisc-linear-demo.html "Javascript Gallery - Bootstrap Template Demo with Basic Linear effect")
 *    [Absent Demo] (http://wowslider.com/wordpress-slider-plugin-absent-cube-demo.html "Wordpress Slider Plugin - Absent Template Demo with Cube effect")
 *    [Bootstrap Demo] (http://wowslider.com/bootstrap-carousel-demo.html "css3 Slider - Bootstrap Template Demo with Carousel effect")
