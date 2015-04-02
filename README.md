@@ -15,6 +15,7 @@ all browsers, all devices,  search engine friendly, clean and valid markup.
  
 ## Live Demos
 
+*    [Bootstrap Demo] (http://wowslider.com/carousel-bootstrap-tv-demo.html "Carousel Bootstrap - Bootstrap Template Demo with TV effect")
 *    [Convex Demo] (http://wowslider.com/responsive-slider-convex-basic-demo.html "Responsive Slider - Convex Template Demo with Basic effect")
 *    [Fill Demo] (http://wowslider.com/jquery-image-slider-fill-basic-demo.html "Jquery Image Slider - Fill Template Demo with Basic effect")
 *    [Material Demo] (http://wowslider.com/content-slider-material-collage-demo.html "Content Slider - Material Template Demo with Collage effect")
