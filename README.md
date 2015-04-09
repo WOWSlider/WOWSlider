@@ -1,5 +1,5 @@
 <a href="http://wowslider.com/">
-  <img src="http://wowslider.com/images/wowslider-demos800.jpg">
+  <img src="http://wowslider.com/images/wowslider-demos900.jpg">
 </a>
 
 # [WOW Slider](http://wowslider.com/)
@@ -33,8 +33,8 @@ all browsers, all devices,  search engine friendly, clean and valid markup.
 *    [Megapolis Demo - Javascript gallery] (http://wowslider.com/javascript-gallery-megalopolis-slices-demo.html "Javascript gallery - Megapolis Template Demo with Slices effect") - Simplistic slider with a straight lined borderless frame
 *    [Puzzle Demo - html5 gallery] (http://wowslider.com/html5-gallery-puzzle-collage-demo.html "html5 gallery - Puzzle Template Demo with Collage effect") - This slider showcase photos in an artistic and unique manner
 *    [Contour Demo - Javascript image slider] (http://wowslider.com/javascript-image-slider-contour-cube-demo.html "Javascript image slider - Contour Template Demo with Cube effect") - Image carousel with a marvelous look and smooth effect.
-*    [Gentle Demo - Simple jQuery Slider](http://wowslider.com/simple-jquery-slider-gentle-linear-demo.html "Simple jQuery Slider - Gentle Template Demo with Basic linear effect")
-*    [Easy Demo - Slideshow javascript](http://wowslider.com/slideshow-javascript-easy-page-demo.html "Slideshow javascript - Easy Template Demo with Page effect")
+*    [Gentle Demo - Simple jQuery Slider](http://wowslider.com/simple-jquery-slider-gentle-linear-demo.html "Simple jQuery Slider - Gentle Template Demo with Basic linear effect") - Slider with modern and nice look
+*    [Easy Demo - Slideshow javascript](http://wowslider.com/slideshow-javascript-easy-page-demo.html "Slideshow javascript - Easy Template Demo with Page effect") - Easy-to-use slideshow
 *    [Tick Demo - Gallery jQuery](http://wowslider.com/gallery-jquery-tick-book-demo.html "Gallery jQuery - Tick Template Demo with Book effect")
 *    [Galaxy Demo - CSS Gallery](http://wowslider.com/css-gallery-galaxy-collage-demo.html "CSS Gallery - Galaxy Template Demo with Collage effect")
 *    [Strict Demo - jQuery Photo Gallery](http://wowslider.com/jquery-photo-gallery-strict-photo-demo.html "jQuery Photo Gallery - Strict Template Demo with Photo effect")
