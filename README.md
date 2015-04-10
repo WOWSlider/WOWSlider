@@ -52,7 +52,7 @@ all browsers, all devices,  search engine friendly, clean and valid markup.
 *    [Box Demo - HTML5 Image Slider](http://wowslider.com/html5-image-slider-box-stack-v-demo.html "HTML5 Image Slider - Box Template Demo with Stack Vertical effect") - Slideshow with a unique effect
 *    [Pure Demo - CSS3 Slideshow](http://wowslider.com/css3-slideshow-pure-domino.html "CSS3 Slideshow - Pure Template Demo with Domino effect") - This slider has a clean and modern design that is both light and attractive
 *    [Fresh Demo - 3D Slider jQuery](http://wowslider.com/3d-slider-jquery-fresh-cube-demo.html "3D Slider jQuery - Fresh Template Demo with Cube effect") - This slider is both friendly and modern in appearance
-*    [Ionosphere Demo - Javascript Slider](http://wowslider.com/javascript-slider-ionosphere-stack-demo.html "Javascript Slider - Ionosphere Template Demo with Stack effect")
+*    [Ionosphere Demo - Javascript Slider](http://wowslider.com/javascript-slider-ionosphere-stack-demo.html "Javascript Slider - Ionosphere Template Demo with Stack effect") - Slideshow with a simple transition
 *    [Luxury Demo - HTML5 Slideshow](http://wowslider.com/html5-slideshow-luxury-slices-demo.html "HTML5 Slideshow - Luxury Template Demo with Slices effect") - Slider with a clean look and a neatness
 *    [Sunny Demo - HTML5 Slider](http://wowslider.com/html5-slider-sunny-fade-demo.html "HTML5 Slider - Sunny Template Demo with Fade effect") - This slideshow offers a soft and very chill transition
 *    [Premium Demo - JS Image Slider](http://wowslider.com/js-image-slider-premium-page-demo.html "JS Image Slider - Premium Template Demo with Page effect") - This slider has a bold, fun design
