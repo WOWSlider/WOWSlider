@@ -15,6 +15,8 @@ all browsers, all devices,  search engine friendly, clean and valid markup.
  
 ## Live Demos
 
+*    [Bootstrap Demo - Slider html] (http://wowslider.com/bootstrap-carousel-example-shift-demo.html "Slider html - Bootstrap Template with with Shift Transition") - Clean and elegant modern bootstrap slider
+*    [Stream Demo - html5 gallery] (http://wowslider.com/jquery-content-slider-stream-fly-demo.html "html5 gallery - Stream Template Demo with Fly Animation") - Slideshow with collapsing arrows
 *    [Bootstrap Demo - Carousel Bootstrap] (http://wowslider.com/carousel-bootstrap-tv-demo.html "Carousel Bootstrap - Bootstrap Template Demo with TV effect") - Square, like an old-fashioned TV screen slideshow
 *    [Convex Demo - Responsive Slider] (http://wowslider.com/responsive-slider-convex-basic-demo.html "Responsive Slider - Convex Template Demo with Basic effect") - High-impact, attention grabbing slider
 *    [Fill Demo - Jquery Image Slider] (http://wowslider.com/jquery-image-slider-fill-basic-demo.html "Jquery Image Slider - Fill Template Demo with Basic effect") - Slider with a fun and slightly quirky look
