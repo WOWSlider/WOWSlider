@@ -15,8 +15,9 @@ all browsers, all devices,  search engine friendly, clean and valid markup.
  
 ## Live Demos
 
-*    [Utter Demo - Slider Js] (http://wowslider.com/slider-js-utter-blinds-demo.html "Slider Js - Utter Template with with Blinds Transition")
-*    [Bootstrap Demo - Slider html] (http://wowslider.com/bootstrap-carousel-example-shift-demo.html "Slider html - Bootstrap Template with with Shift Transition") - Clean and elegant modern bootstrap slider
+*    [Angular Demo - Angular slider] (http://wowslider.com/angular-slider-collage-demo.html "Angular slider - Angular Template with Collage Transition")
+*    [Utter Demo - Slider Js] (http://wowslider.com/slider-js-utter-blinds-demo.html "Slider Js - Utter Template with Blinds Transition")
+*    [Bootstrap Demo - Slider html] (http://wowslider.com/bootstrap-carousel-example-shift-demo.html "Slider html - Bootstrap Template with Shift Transition") - Clean and elegant modern bootstrap slider
 *    [Stream Demo - html5 gallery] (http://wowslider.com/jquery-content-slider-stream-fly-demo.html "html5 gallery - Stream Template Demo with Fly Animation") - Slideshow with collapsing arrows
 *    [Bootstrap Demo - Carousel Bootstrap] (http://wowslider.com/carousel-bootstrap-tv-demo.html "Carousel Bootstrap - Bootstrap Template Demo with TV effect") - Square, like an old-fashioned TV screen slideshow
 *    [Convex Demo - Responsive Slider] (http://wowslider.com/responsive-slider-convex-basic-demo.html "Responsive Slider - Convex Template Demo with Basic effect") - High-impact, attention grabbing slider
