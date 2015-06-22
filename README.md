@@ -9,7 +9,7 @@ and tons of slick pre-made skins.
 
 WOW Slider is packed with a point-and-click wizard to create fantastic image sliders in a matter of seconds without 
 coding and image editing. 
-
+ 
 Responsive, fully accessible as a pure CSS slider if the Javascript is turned off, touch swipe support, 
 all browsers, all devices,  search engine friendly, clean and valid markup. 
  
