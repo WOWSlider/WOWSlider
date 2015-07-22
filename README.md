@@ -1,7 +1,7 @@
 <a href="http://wowslider.com/">
   <img src="http://wowslider.com/images/wowslider-demos900.jpg">
 </a>
-
+ 
 # [WOW Slider](http://wowslider.com/)
 
 [WOW Slider](http://wowslider.com/) is a jQuery image slider with unique  visual effects 
