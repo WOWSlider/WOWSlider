@@ -91,10 +91,10 @@ all browsers, all devices,  search engine friendly, clean and valid markup.
 *    [Megalopolis Demo - Javascript Gallery] (http://wowslider.com/javascript-gallery-megalopolis-slices-demo.html "Javascript Gallery - Megalopolis Skin Slider Demo - Slices effect") - This slideshow has a template that is very simplistic but stunning effect
 
 ##What's new: 
-###WOW Slider 8.5:
+
+WOW Slider 8.5:
 
 * New beautiful templates: Epsilon, Angular, Utter, Stream
-* 
 * New effect: Turn
 * GUI translation for Chinese, Dutch, French, German, Italian, Japanese, Portuguese, Russian, Spanish, Swedish languages
 * Option to export the slider to Google Drive and then embed to any website with a single line of code
