@@ -14,7 +14,8 @@ Responsive, fully accessible as a pure CSS slider if the Javascript is turned of
 all browsers, all devices,  search engine friendly, clean and valid markup. 
  
 ## Live Demos
-    
+
+*    [Epsilon Demo - Image Slider Jquery] (http://wowslider.com/image-slider-jquery-epsilon-collage-demo.html "Wordpress Slideshow - Epsilon Template with Collage Transition")    
 *    [Galaxy Demo - Wordpress Slideshow] (http://wowslider.com/wordpress-slideshow-galaxy-turn-demo.html "Wordpress Slideshow - Galaxy Template with Turn Transition")
 *    [Angular Demo - Angular slider] (http://wowslider.com/angular-slider-collage-demo.html "Angular slider - Angular Template with Collage Transition")
 *    [Utter Demo - Slider Js] (http://wowslider.com/slider-js-utter-blinds-demo.html "Slider Js - Utter Template with Blinds Transition")
