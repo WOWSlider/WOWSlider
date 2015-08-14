@@ -92,7 +92,7 @@ all browsers, all devices,  search engine friendly, clean and valid markup.
 
 ##What's new: 
 
-WOW Slider 8.5:
+###WOW Slider 8.5:
 
 * New beautiful templates: Epsilon, Angular, Utter, Stream
 * New effect: Turn
