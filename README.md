@@ -106,6 +106,6 @@ all browsers, all devices,  search engine friendly, clean and valid markup.
 ## Quick start
 
 * [Download the latest version for Windows or Mac](http://wowslider.com/).
-
+* [Help](http://wowslider.com/help/).
 
 
