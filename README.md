@@ -93,14 +93,15 @@ all browsers, all devices,  search engine friendly, clean and valid markup.
 ##What's new: 
 ###WOW Slider 8.5:
 
-*New beautiful templates: Epsilon, Angular, Utter, Stream
-*New effect: Turn
-*GUI translation for Chinese, Dutch, French, German, Italian, Japanese, Portuguese, Russian, Spanish, Swedish languages
-*Option to export the slider to Google Drive and then embed to any website with a single line of code
-*Wordpress plugin is updated for latest version
-*Support for Joomla 3.x 
-*Fixed problem with adding some YouTube videos
-*Prevention of sleeping on devices in fullscreen mode
+* New beautiful templates: Epsilon, Angular, Utter, Stream
+* 
+* New effect: Turn
+* GUI translation for Chinese, Dutch, French, German, Italian, Japanese, Portuguese, Russian, Spanish, Swedish languages
+* Option to export the slider to Google Drive and then embed to any website with a single line of code
+* Wordpress plugin is updated for latest version
+* Support for Joomla 3.x 
+* Fixed problem with adding some YouTube videos
+* Prevention of sleeping on devices in fullscreen mode
 
 ## Quick start
 
