@@ -13,7 +13,7 @@ coding and image editing.
 Responsive, fully accessible as a pure CSS slider if the Javascript is turned off, touch swipe support, 
 all browsers, all devices,  search engine friendly, clean and valid markup. 
  
-## Live Demos
+## Live Demos  
 
 *    [Epsilon Demo - Image Slider Jquery] (http://wowslider.com/image-slider-jquery-epsilon-collage-demo.html "Wordpress Slideshow - Epsilon Template with Collage Transition")    
 *    [Galaxy Demo - Wordpress Slideshow] (http://wowslider.com/wordpress-slideshow-galaxy-turn-demo.html "Wordpress Slideshow - Galaxy Template with Turn Transition")
