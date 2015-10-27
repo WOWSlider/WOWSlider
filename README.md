@@ -3,7 +3,7 @@
 </a>
  
 # [WOW Slider](http://wowslider.com/)
-
+ 
 [WOW Slider](http://wowslider.com/) is a jQuery image slider with unique  visual effects 
 and tons of slick pre-made skins. 
 
