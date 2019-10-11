@@ -4,11 +4,9 @@
  
 # [WOW Slider](http://wowslider.com/)
  
-[WOW Slider](http://wowslider.com/) is a jQuery image slider with unique  visual effects 
-and tons of slick pre-made skins. 
+[WOW Slider](http://wowslider.com/) is a jQuery image slider with unique visual effects and tons of slick pre-made skins. 
 
-WOW Slider is packed with a point-and-click wizard to create fantastic image sliders in a matter of seconds without 
-coding and image editing. 
+WOW, Slider is packed with a point-and-click wizard to create fantastic image sliders in a matter of seconds without coding and image editing. 
   
 Responsive, fully accessible as a pure CSS slider if the Javascript is turned off, touch swipe support, 
 all browsers, all devices,  search engine friendly, clean and valid markup. 
@@ -91,20 +89,20 @@ all browsers, all devices,  search engine friendly, clean and valid markup.
 *    [Terse Demo - Jquery image rotator](http://wowslider.com/jquery-image-rotator-terse-blur-demo.html "jQuery Slider - Terse Blur") - The images change smoothly making an outstanding effect
 *    [Megalopolis Demo - Javascript Gallery] (http://wowslider.com/javascript-gallery-megalopolis-slices-demo.html "Javascript Gallery - Megalopolis Skin Slider Demo - Slices effect") - This slideshow has a template that is very simplistic but stunning effect
 
-##What's new: 
+## What's new: 
 
-###WOW Slider 8.5:
+## WOW Slider 8.5:
 
 * New beautiful templates: Epsilon, Angular, Utter, Stream
 * New effect: Turn
 * GUI translation for Chinese, Dutch, French, German, Italian, Japanese, Portuguese, Russian, Spanish, Swedish languages
 * Option to export the slider to Google Drive and then embed to any website with a single line of code
-* Wordpress plugin is updated for latest version
+* Wordpress plugin is updated for the latest version
 * Support for Joomla 3.x 
 * Fixed problem with adding some YouTube videos
 * Prevention of sleeping on devices in fullscreen mode
 
-## Quick start
+## Quickstart
 
 * [Download the latest version for Windows or Mac](http://wowslider.com/).
 * [Help](http://wowslider.com/help/).
